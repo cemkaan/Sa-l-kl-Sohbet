@@ -1,6 +1,7 @@
 ## Kullanılacaklar
 
-- Llama 3.1 8B Instant 128k
+- [Llama 3.1 8B Instant 128k](https://sdk.vercel.ai/providers/ai-sdk-providers/groq#language-models)
+ 
 
 ### temel soru ve cevaplar
 
@@ -15,7 +16,7 @@
 * "Beslenme bozuklukları"
 * "Vitamin ve mineral takviyeleri"
 
-## Sistem promptları
+## [Sistem promptları](https://sdk.vercel.ai/docs/foundations/prompts#system-prompts)
 
 * "Ben bir beslenme uzmanıyım. Size yardımcı olmak için buradayım. Beslenme hakkında ne öğrenmek istiyorsunuz?"
 * "Sağlıklı beslenme için en iyi tavsiyelerim nelerdir? Size özel bir beslenme planı oluşturabiliriz."
